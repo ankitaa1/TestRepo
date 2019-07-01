@@ -3,8 +3,8 @@ Making a game that your friends can play is always our wish. Here it is, a small
 
 
 Steps For suitable Run:
-1. Download all files in the directory and save.
+1. Download all files from the repository.
 2. Ensure that all the files must be at the same level directory.
-3. Run .html file in your respective browser.
+3. Run game.html file.
 
 Have Fun!!
