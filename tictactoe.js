@@ -1,5 +1,5 @@
 
-console.log("Connected") // this line is for ensuring the script is connected 
+console.log("Welcome to the game!!!") // this line is for ensuring the script is connected 
 
 // query selector is for selecting the id from html page
 var restartb = document.querySelector("#b"); // restart button 
